@@ -11,7 +11,7 @@
  -  📚 Curse 3 años de ingeniería en sistemas 
   
 ### 🔨 Tools
-<div class="lenguajes" align="left">
+<div class="lenguajes" align="center" justify-content="space-around">
   <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" width="40">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="40">
