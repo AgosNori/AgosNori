@@ -2,7 +2,11 @@
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300">
   <h1> Hi, I'am Agos 🌻</h1>
   <h3> Soy futura desarrolladora full stack 👩🏼‍💻 , me gusta mucho el frontend 🎨, soy estudiante de ingeniería electromécanica 🔧. AMOO el frio y la nieve ❄️.
-    </div>
+</div>
+### 🤘🏼  About me 
+    -  👩🏼‍🏫 Estoy dictando clases de programación y robotica 
+    -  💻 Actualmente me encuentro capacitandome para ser Dev Full Stack en Icaro UNC
+    -  📚 Curse 3 años de ingeniería en sistemas 
 <!--
 **AgosNori/AgosNori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
