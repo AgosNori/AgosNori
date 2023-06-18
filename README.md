@@ -9,6 +9,18 @@
  -  👩🏼‍🏫 Estoy dictando clases de programación y robotica 
  -  💻 Actualmente me encuentro capacitandome para ser Dev Full Stack en Icaro UNC
  -  📚 Curse 3 años de ingeniería en sistemas 
+  
+### 🔨 Tools
+<div class="lenguajes" align="left">
+  <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="40">
 <!--
 **AgosNori/AgosNori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
