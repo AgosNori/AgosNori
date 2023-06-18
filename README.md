@@ -21,6 +21,12 @@
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="40">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="40">
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="40">
+  </div> 
+  
+### My stats
+  <div class="mystats" align="center">
+    
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgosNori&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AgosNori/AgosNori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
