@@ -27,6 +27,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" width ="40">
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" width="40">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168459.png" width="40">
   </div> 
   
 ### 🏁 My stats
