@@ -6,8 +6,8 @@
     
 ### 🤘🏼 About me 
   
- -  👩🏼‍🏫 Estoy dictando clases de programación y robotica 
- -  💻 Actualmente me encuentro capacitandome para ser Dev Full Stack en Icaro UNC
+ -  👩🏼‍🏫 Estoy dictando clases de programación en la Agencia de Innovación TDF - Polo Creativo
+ -  💻 Estoy trabajando como desarrolladora frontend en la Agencia de Innovación TDF - Servicios Digitales
  -  📚 Curse 3 años de ingeniería en sistemas 
   
 ### 🔨 Tools
