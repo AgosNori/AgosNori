@@ -1,5 +1,6 @@
 <div class="header" align="center">
   <img src="https://media.giphy.com/media/JhZcAuGjuDmZq/giphy.gif" width="300">
+
   <h1> Hi, I'am Agos 🌻</h1>
   <h3> Soy desarrolladora full stack 👩🏼‍💻 , me gusta mucho el frontend 🎨, soy estudiante de ingeniería electromécanica 🔧. AMOO el frio y la nieve ❄️.
 </div>
@@ -34,6 +35,18 @@
   <div class="mystats" align="center">
     
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgosNori&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+  <div class="header" align="center">
+    <img width= "200" 
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGo2MW1wMTRzbnc4YXl6bDMwdWdsdnZsMHV6NXJoNG9jNGR6M2lxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGs5dbisGxm5b9e/giphy.gif">
+  </div>
 <!--
 **AgosNori/AgosNori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
