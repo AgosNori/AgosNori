@@ -7,9 +7,9 @@
     
 ### 🤘🏼 About me 
   
- -  👩🏼‍🏫 Estoy dictando clases de programación en la Agencia de Innovación TDF - Polo Creativo
+ -  👩🏼‍🏫 Estoy dictando clases de programación en el politécnico Malvinas Argentinas 
  -  💻 Estoy trabajando como desarrolladora frontend en la Agencia de Innovación TDF - Servicios Digitales
- -  📚 Curse 3 años de ingeniería en sistemas 
+ -  📚 Cursando actualmente la carrerra de Ingeniería Electromécanica
   
 ### 🔨 Tools
 <div class="lenguajes" align="center" justify-content="space-around">
@@ -43,10 +43,6 @@
 
 
 
-  <div class="header" align="center">
-    <img width= "200" 
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGo2MW1wMTRzbnc4YXl6bDMwdWdsdnZsMHV6NXJoNG9jNGR6M2lxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGs5dbisGxm5b9e/giphy.gif">
-  </div>
 <!--
 **AgosNori/AgosNori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
