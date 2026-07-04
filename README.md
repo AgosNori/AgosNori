@@ -2,14 +2,8 @@
   <img src="https://media.giphy.com/media/JhZcAuGjuDmZq/giphy.gif" width="300">
 
   <h1> Hi, I'am Agos 🌻</h1>
-  <h3> Soy desarrolladora full stack 👩🏼‍💻 , me gusta mucho el frontend 🎨, soy estudiante de ingeniería electromécanica 🔧. AMOO el frio y la nieve ❄️.
+  <h3> Soy desarrolladora Full Stack 👩🏼‍💻 , me gusta mucho el frontend 🎨, soy estudiante de ingeniería electromécanica 🔧. AMOO el frio y la nieve ❄️.
 </div>
-    
-### 🤘🏼 About me 
-  
- -  👩🏼‍🏫 Estoy dictando clases de programación en el politécnico Malvinas Argentinas 
- -  💻 Estoy trabajando como desarrolladora frontend en la Agencia de Innovación TDF - Servicios Digitales
- -  📚 Cursando actualmente la carrerra de Ingeniería Electromécanica
   
 ### 🔨 Tools
 <div class="lenguajes" align="center" justify-content="space-around">
@@ -31,11 +25,6 @@
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168459.png" width="40">
   </div> 
   
-### 🏁 My stats
-  <div class="mystats" align="center">
-    
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgosNori&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
